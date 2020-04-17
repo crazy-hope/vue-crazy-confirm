@@ -10,7 +10,6 @@
         :leave-active-class="parameter.classNameOut"
       >
         <div class="box" v-if="showContent">
-          <div class="status"><img :src="`${publicPath}assets/popIcon.png`" alt=""></div>
           <div class="title">{{ parameter.title }}</div>
           <div class="content" v-if="parameter.content" v-html="parameter.content"></div>
           <div class="btns">
@@ -30,7 +29,6 @@ export default {
 
   data() {
     return {
-      publicPath: process.env.BASE_URL,
       show: false,
       showContent: false,
       defaultParameter: {
@@ -118,17 +116,6 @@ export default {
     border-radius: 13px;
     padding: 27px;
     color: #666666;
-    .status {
-      position: absolute;
-      right: 0;
-      top: -46px;
-      width: 123px;
-      img {
-        width: 100%;
-        height: auto;
-        visibility: top;
-      }
-    }
     .title {
       font-size: 18px;
       color: #333333;

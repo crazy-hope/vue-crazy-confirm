@@ -8368,6 +8368,18 @@ vue-crazy-confirm@^0.1.13:
     vue "^2.6.11"
     vue-crazy-confirm "^0.1.12"
 
+vue-crazy-confirm@^0.1.15:
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.15.tgz#9ccbc0392536ed6b2455f010bc0c9d727ad7bf75"
+  integrity sha512-PzWB85GRkcchpVFOee2GbwgmhEndxSpa3cspx5KswT8JVxuuG+JWiC1t5Nkjo03er83O6gQi3Z6DOEVfzl839w==
+  dependencies:
+    animate.css "^3.7.2"
+    core-js "^3.6.4"
+    node-sass "^4.13.1"
+    sass-loader "^8.0.2"
+    vue "^2.6.11"
+    vue-crazy-confirm "^0.1.13"
+
 vue-crazy-confirm@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.2.tgz#9e7912fc02d57bc94a64611cfd3289d1518fe34b"

@@ -8309,172 +8309,17 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz?cache=0&sync_timestamp=1572870776965&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvm-browserify%2Fdownload%2Fvm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
 
-vue-crazy-confirm@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.0.tgz#248578d72077fa5ad6c4d3a87851ae4351fac986"
-  integrity sha512-rtX4Jy7WQr20L+s2nyskHXtHIIdJ/esyCt0vwWkVIBUx3EIGFmJ4gD8elHIvi22ldk/uCdEOmzLoGvH4aF9sow==
+vue-crazy-confirm@^0.1.18:
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.18.tgz#5483d2778c88e5a44803d6e5d92d7ea1a96fc59f"
+  integrity sha512-AVqMGRJMRt5945tuHkbB4Ur93trBUEgp2cCq7Ue5L5KvgZWsB4YE/Oin0YA8pLtpED4dV9ctP4Megno2+L9xEA==
   dependencies:
     animate.css "^3.7.2"
     core-js "^3.6.4"
     node-sass "^4.13.1"
     sass-loader "^8.0.2"
     vue "^2.6.11"
-
-vue-crazy-confirm@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.10.tgz#42c15e1b20e1cfbc303cef738df6289df94ffb5e"
-  integrity sha512-xLOQF+0wV/UUY08HIfMZxHrSPEaGbfzsW9jhrCWMP9cGpod9wdjDKIF/zyG9oJ3Ui81EK5Lhpc5WTo19hipT/A==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.9"
-
-vue-crazy-confirm@^0.1.11:
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.11.tgz#622202af7ecd64f5c3b87e1eddc0381357021ceb"
-  integrity sha512-O8p15Vu+ZLL2yyMSuJxXOXo3csBGpFRtngG2vlM+oP40+oRIm+EUQbTgKAat/fsc0WApHNJ/EDsgPx1LwUWy7Q==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.10"
-
-vue-crazy-confirm@^0.1.12:
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.12.tgz#547775da44752f7eb06de489eb9c1d6aa0fe52d2"
-  integrity sha512-LC1tOD7+FrOEoQxrgsB34lIvnYkDaBdTcB7/IpcXaRCMvBVUCt/i5xRtN5nY63KUVtjkm9fFwY4UHhe6Ke3iFg==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.11"
-
-vue-crazy-confirm@^0.1.13:
-  version "0.1.13"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.13.tgz#e3a967238eda5edfc95e7eb4494d2e4fb3cbc62f"
-  integrity sha512-95u1h6Du+a/FVZivAhbVMaWjorwAnRKk5Qz6G1LEnTUT//Kx7vjPNSqwfMZA6y7BQbouiQ/ZqNHh5pjgEdZ7tg==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.12"
-
-vue-crazy-confirm@^0.1.15:
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.15.tgz#9ccbc0392536ed6b2455f010bc0c9d727ad7bf75"
-  integrity sha512-PzWB85GRkcchpVFOee2GbwgmhEndxSpa3cspx5KswT8JVxuuG+JWiC1t5Nkjo03er83O6gQi3Z6DOEVfzl839w==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.13"
-
-vue-crazy-confirm@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.2.tgz#9e7912fc02d57bc94a64611cfd3289d1518fe34b"
-  integrity sha512-fxQZi75Hdpaz5ZeDNKAcivzAh4yq30N0Q1OAvsV3g7paJfSVIjZQBW897nOEPWzO6AAHKFd8IQJa0kUh4yxzLg==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.0"
-
-vue-crazy-confirm@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.3.tgz#bb7b6ada664dc7176dd02b4003f0d4f63b239581"
-  integrity sha512-rQ3WMfBQWdR9SNU+xC92FAuRRlUQUokSAEcCZ3vaPM7srHt3eFMzqvlF3q9vfQB8aSdMhvamaBDnl4g4Aqr86w==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.2"
-
-vue-crazy-confirm@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.4.tgz#60faffb1bd4507867d6abb3bc7ac8a2fc6fc5e0e"
-  integrity sha512-pHp9YI771iCsv2h2600OQrmkmzX8hP7QJAkaYPlZn5U6CEhho+7mLOWNHy5J/KRZl5HayhNsBCdUmRujaoWULw==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.3"
-
-vue-crazy-confirm@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.5.tgz#39585d6224a566ac91d06baa6d4c1321c699b8ef"
-  integrity sha512-jdDo08dmz5KTytKxlrItJEyPt5LoLdeqExPcadx4JmC0RYExdun8jwv3tLaLQTwYm+W1JK5n4tXEZPKqBj9M6Q==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.4"
-
-vue-crazy-confirm@^0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.6.tgz#deb1817a671358cce6851d6fd6fdab9537f35dfc"
-  integrity sha512-RonlITeCjoh8aYc2snwJGYj5s93E2Mw6M2KZgswWl5qasYxarSVcLaFyNoFVJE+LoJRNwqNkXA6wXsUj/1zYUw==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.5"
-
-vue-crazy-confirm@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.7.tgz#62213bc1e7ca4bb916a703dbbef3c01f33c439b4"
-  integrity sha512-ywSKWvpBPweXeBSyXKB88D7NZ/59MjikUC1BlJ20NJgj9m3z8j4F4L0Pc4s4iDTE6nP8KpxiUvkev/havqOQeg==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.6"
-
-vue-crazy-confirm@^0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.8.tgz#a9b699d0e62367ff023c73092cf0413621ebd647"
-  integrity sha512-/UoYLciXOMksQk9+HEbx4bdl+F80kdPgbo2S60UMePMe1mnurpRKK1Zj1kMyDdaTX0dN6u1ubvDwb2zcliAbPw==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.7"
-
-vue-crazy-confirm@^0.1.9:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/vue-crazy-confirm/-/vue-crazy-confirm-0.1.9.tgz#17f1f22f4c561202909df90202498242b2d710a0"
-  integrity sha512-pi8YMxuVdeEupQ774aNDGo6UMU4ivHuI5jNKR31Ve0xlBbbjH8Xn1EsZSjXBAY1sAgstTz/SoXcWqGEK2v5hCA==
-  dependencies:
-    animate.css "^3.7.2"
-    core-js "^3.6.4"
-    node-sass "^4.13.1"
-    sass-loader "^8.0.2"
-    vue "^2.6.11"
-    vue-crazy-confirm "^0.1.8"
+    vue-crazy-confirm "^0.1.18"
 
 vue-eslint-parser@^7.0.0:
   version "7.0.0"

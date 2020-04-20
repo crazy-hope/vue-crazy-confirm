@@ -1,6 +1,6 @@
 {
   "name": "vue-crazy-confirm",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "main": "dist/vue-crazy-confirm.umd.min.js",
   "author": "crazyHope",
   "keyword": "vue-crazy-confirm",
@@ -18,7 +18,7 @@
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
-    "vue-crazy-confirm": "^0.1.16"
+    "vue-crazy-confirm": "^0.1.17"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.3.0",

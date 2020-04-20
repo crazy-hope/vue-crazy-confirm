@@ -1,6 +1,6 @@
 # vue-crazy-confirm
 
-![screenShot]('https://github.com/crazy-hope/vue-crazy-confirm/blob/master/screenshot/confirm.png')
+![screenShot](https://github.com/crazy-hope/vue-crazy-confirm/blob/master/screenshot/confirm.png)
 
 ### 安装 `vue-crazy-confirm`
 ``` shell

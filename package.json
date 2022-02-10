@@ -19,7 +19,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "core-js": "^3.6.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
     "vue-crazy-confirm": "^0.1.18"
